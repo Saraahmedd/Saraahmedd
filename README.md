@@ -52,12 +52,29 @@ I'm a computer engineer with a passion for development, design and entrepreneurs
 - **Marvelous Wars**: Developed a Java marvel board-like game where 2 players compete with teams of 3 characters using special attacks and healing powers for each character.
 
 ## 📫 How to Reach Me
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [SaraEladawy_Linkedin](https://www.linkedin.com/in/sara-Eladawy-186335249)
-- ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white) [Instagram](https://www.instagram.com/saraa.eladawy/)
-- ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) Email: saraahmedsaber@gmail.com
+
+[![LinkedIn][1.1]][1]
+[![Instagram][2.1]][2]
+[![Gmail][3.1]][3]
 
 ## Check out my UI/UX work
-- ![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white) [SaraEladawy_Behance](https://www.behance.net/saraahmed276)
+
+[![Behance][4.1]][4]
+
+<!-- Icons -->
+
+[1.1]: https://i.imgur.com/wWzX9uB.png (LinkedIn icon without padding)
+[2.1]: https://i.imgur.com/U3cUgnc.png (Instagram icon without padding)
+[3.1]: https://i.imgur.com/FGVU2oN.png (Gmail icon without padding)
+[4.1]: https://i.imgur.com/SwcWYxO.png (Behance icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/sara-Eladawy-186335249
+[2]: https://www.instagram.com/saraa.eladawy/
+[3]: mailto:saraahmedsaber@gmail.com
+[4]: https://www.behance.net/saraahmed276
+
 
  
 
