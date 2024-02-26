@@ -61,7 +61,7 @@ I'm a computer engineer with a passion for development, design and entrepreneurs
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazem_abdelghany" height="30" width="40" />
   </a>
 </p>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)][mailto:saraahmedsaber@gmail.com]
+- ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) Email: saraahmedsaber@gmail.com
 
 ## Check out my UI/UX work
 <a href="https://www.behance.net/saraahmed276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="saraahmed276" height="30" width="40" /></a>
