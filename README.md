@@ -72,5 +72,3 @@ I'm a computer engineer with a passion for development, design and entrepreneurs
 
  
 
-Thank you for visiting my profile!
-
