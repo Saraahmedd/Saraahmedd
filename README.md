@@ -47,11 +47,13 @@ I'm a computer engineer with a passion for development, design and entrepreneurs
 - **Marvelous Wars**: Developed a Java marvel board-like game where 2 players compete with teams of 3 characters using special attacks and healing powers for each character.
 
 ## 📫 How to Reach Me
-- LinkedIn: [SaraEladawy_Linkedin](https://www.linkedin.com/in/sara-Eladawy-186335249)
-- Email: saraahmedsaber@gmail.com
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [SaraEladawy_Linkedin](https://www.linkedin.com/in/sara-Eladawy-186335249)
+- ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white) [Instagram](https://www.instagram.com/saraa.eladawy/)
+- ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) Email: saraahmedsaber@gmail.com
 
 ## Check out my UI/UX work
-- Behance: [SaraEladawy_Behance](https://www.behance.net/saraahmed276)
+- ![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white) [SaraEladawy_Behance](https://www.behance.net/saraahmed276)
+
  
 
 Thank you for visiting my profile!
