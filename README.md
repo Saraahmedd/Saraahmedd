@@ -60,27 +60,13 @@ I'm a computer engineer with a passion for development, design and entrepreneurs
   <a href="mailto:saraahmedsaber@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazem_abdelghany" height="30" width="40" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="blank">
-    <img align="center" src="URL_TO_YOUR_GMAIL_ICON" alt="your-email" height="30" width="40" />
-  </a>
 </p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)][1]
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)][2]
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)][3]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)][mailto:saraahmedsaber@gmail.com]
 
 ## Check out my UI/UX work
-  <a href="https://www.behance.net/saraahmed276" target="blank">
-    <img align="center" src="URL_TO_YOUR_BEHANCE_ICON" alt="yourbehanceprofile" height="30" width="40" />
-  </a>
-[![Behance](https://img.shields.io/badge/Behance-053eff?style=flat-square&logo=behance&logoColor=white)][4]
+<a href="https://www.behance.net/saraahmed276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="saraahmed276" height="30" width="40" /></a>
 
-<!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/sara-Eladawy-186335249
-[2]: https://www.instagram.com/saraa.eladawy/
-[3]: mailto:saraahmedsaber@gmail.com
-[4]: https://www.behance.net/saraahmed276
 
 
  
