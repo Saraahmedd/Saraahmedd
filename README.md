@@ -48,6 +48,7 @@ I'm a computer engineer with a passion for development, design and entrepreneurs
 - **Welmnt**: Developed on a Landing website and web-app for Welmnt, after building its UI/UX desgin myself. Welmnt is a mental health AI solution for K-12 students, visit welmnt.com for more info!
 - **Vite Meds & Clinics**: Developed a React-Next application for online doctor appointments, checkups and health management, as well as pharmaceutical services.
 - **APEX banking**: Developed an online banking system full frontend interface complete with all bank operations and services.
+- **Gyro**: Developed a self-balancing robot utilizing C++, where gyro can balance on two wheels by activating the motor based on gyroscope readings to balance the axis.
 - **Apocalypse Game**: Developed an OpenGL C++ game featuring zombies and aliens for a semester project.
 - **Marvelous Wars**: Developed a Java marvel board-like game where 2 players compete with teams of 3 characters using special attacks and healing powers for each character.
 
