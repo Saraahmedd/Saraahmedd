@@ -3,6 +3,11 @@
 ## 👨‍💻 About Me
 I'm a computer engineer with a passion for development, design and entrepreneurship. I specialize in creating websites, systems, and digital marketing strategies.
 
+### Some Fun Facts about me!
+- I started my own local business, Celeste, back in 2021, where I have succeeded in managing the whole business completely by myself from product design and social media marketing to events, finance, PR, and much more!
+- I work in both frontend development as well as UI/UX design which helps me bring unique insight to both fields by designing efficient UI/UX designs as well as implementing Design-Cohesive frontend interfaces.
+- I am always open to learning new skills in different fields, from computer engineering concepts to fun hand-crafts and atheletic activities.
+
 ## 🛠 Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -47,34 +52,12 @@ I'm a computer engineer with a passion for development, design and entrepreneurs
 - **Marvelous Wars**: Developed a Java marvel board-like game where 2 players compete with teams of 3 characters using special attacks and healing powers for each character.
 
 ## 📫 How to Reach Me
-
-<p>
-  <a href="https://www.linkedin.com/in/sara-Eladawy-186335249">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    SaraEladawy_Linkedin
-  </a>
-</p>
-<p>
-  <a href="https://www.instagram.com/saraa.eladawy/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-    Instagram
-  </a>
-</p>
-<p>
-  <a href="mailto:saraahmedsaber@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-    saraahmedsaber@gmail.com
-  </a>
-</p>
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [SaraEladawy_Linkedin](https://www.linkedin.com/in/sara-Eladawy-186335249)
+- ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white) [Instagram](https://www.instagram.com/saraa.eladawy/)
+- ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) Email: saraahmedsaber@gmail.com
 
 ## Check out my UI/UX work
-
-<p>
-  <a href="https://www.behance.net/saraahmed276">
-    <img src="https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance" />
-    SaraEladawy_Behance
-  </a>
-</p>
+- ![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white) [SaraEladawy_Behance](https://www.behance.net/saraahmed276)
 
  
 
