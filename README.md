@@ -53,13 +53,26 @@ I'm a computer engineer with a passion for development, design and entrepreneurs
 - **Marvelous Wars**: Developed a Java marvel board-like game where 2 players compete with teams of 3 characters using special attacks and healing powers for each character.
 
 ## 📫 How to Reach Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sara-Eladawy-186335249" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem-abdelghany" height="30" width="40" />
+  </a>
+  <a href="mailto:saraahmedsaber@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazem_abdelghany" height="30" width="40" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="blank">
+    <img align="center" src="URL_TO_YOUR_GMAIL_ICON" alt="your-email" height="30" width="40" />
+  </a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)][1]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)][2]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)][3]
 
 ## Check out my UI/UX work
-
+  <a href="https://www.behance.net/saraahmed276" target="blank">
+    <img align="center" src="URL_TO_YOUR_BEHANCE_ICON" alt="yourbehanceprofile" height="30" width="40" />
+  </a>
 [![Behance](https://img.shields.io/badge/Behance-053eff?style=flat-square&logo=behance&logoColor=white)][4]
 
 <!-- Links to your social media accounts -->
