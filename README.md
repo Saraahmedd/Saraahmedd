@@ -8,7 +8,7 @@ I'm a computer engineer with a passion for development, design and entrepreneurs
 - I work in both frontend development as well as UI/UX design which helps me bring unique insight to both fields by designing efficient UI/UX designs as well as implementing Design-Cohesive frontend interfaces.
 - I am always open to learning new skills in different fields, from computer engineering concepts to fun hand-crafts and atheletic activities.
 
-## 🛠 Skills
+## 🛠 Languages & Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
